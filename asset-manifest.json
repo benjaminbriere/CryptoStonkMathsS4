@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CryptoStonkMathsS4/static/css/main.d8aef1fa.chunk.css",
+    "main.js": "/CryptoStonkMathsS4/static/js/main.9fac88b2.chunk.js",
+    "main.js.map": "/CryptoStonkMathsS4/static/js/main.9fac88b2.chunk.js.map",
+    "runtime-main.js": "/CryptoStonkMathsS4/static/js/runtime-main.5e6604a1.js",
+    "runtime-main.js.map": "/CryptoStonkMathsS4/static/js/runtime-main.5e6604a1.js.map",
+    "static/js/2.fd59b5e6.chunk.js": "/CryptoStonkMathsS4/static/js/2.fd59b5e6.chunk.js",
+    "static/js/2.fd59b5e6.chunk.js.map": "/CryptoStonkMathsS4/static/js/2.fd59b5e6.chunk.js.map",
+    "static/js/3.0ed36bb8.chunk.js": "/CryptoStonkMathsS4/static/js/3.0ed36bb8.chunk.js",
+    "static/js/3.0ed36bb8.chunk.js.map": "/CryptoStonkMathsS4/static/js/3.0ed36bb8.chunk.js.map",
+    "index.html": "/CryptoStonkMathsS4/index.html",
+    "static/css/main.d8aef1fa.chunk.css.map": "/CryptoStonkMathsS4/static/css/main.d8aef1fa.chunk.css.map",
+    "static/js/2.fd59b5e6.chunk.js.LICENSE.txt": "/CryptoStonkMathsS4/static/js/2.fd59b5e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6604a1.js",
+    "static/js/2.fd59b5e6.chunk.js",
+    "static/css/main.d8aef1fa.chunk.css",
+    "static/js/main.9fac88b2.chunk.js"
+  ]
+}
